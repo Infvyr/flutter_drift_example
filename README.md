@@ -28,7 +28,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/flutter_drift_example.git
+    git clone https://github.com/Infvyr/flutter_drift_example.git
     cd flutter_drift_example
     ```
 
