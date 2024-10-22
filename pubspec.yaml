@@ -1,0 +1,30 @@
+name: flutter_drift_example
+description: "Flutter Drift example."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  drift: ^2.21.0
+  drift_flutter: ^0.2.1
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_native_splash: ^2.4.2
+  intl: ^0.19.0
+  path: ^1.9.0
+  path_provider: ^2.1.4
+  provider: ^6.1.2
+
+dev_dependencies:
+  build_runner: ^2.4.13
+  drift_dev: ^2.21.0
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
